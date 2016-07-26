@@ -1,0 +1,13 @@
+Model\Product.class
+controller\HelloController.class
+controller\FileUploadController.class
+controller\UserBean.class
+controller\SignUpController.class
+dao\CustomerDAOImpl.class
+Model\Customer.class
+dao\ProductDAOImpl.class
+Model\FileUpload.class
+dao\productServices.class
+dao\customerServices.class
+util\FileValidator.class
+controller\Demohandler.class
